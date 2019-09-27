@@ -35,13 +35,20 @@ To keep it simple, I've listed six easy-to-follow steps with clarifications for 
 Chapters include general recommendations, links to known good sources as well as personal
 experience. I will be happy to hear your feedback and update the playbook. Current version:
 
-### [1. Identify teams](Security%20Playbook/1.%20Identify%20teams.md)
-### [2. Define the role](Security%20Playbook/2.%20Define%20the%20role.md)
-### [3. Nominate Champions](Security%20Playbook/3.%20Nominate%20Champions.md)
-### [4. Set up communication channels](Security%20Playbook/4.%20Set%20up%20communication%20channels.md)
-### [5. Build solid knowledge base](Security%20Playbook/5.%20Build%20solid%20knowledge%20base.md)
-### [6. Maintain interest](Security%20Playbook/6.%20Maintain%20interest.md)
-
+### [1. Explain IBM DevSecOps](Security%20Playbook/1.%20Identify%20teams.md)
+### [2. Explain Testing Principles, Requirements and Techniques](Security%20Playbook/2.%20Define%20the%20role.md)
+### [3. Analyse Security Data and Report Generations](Security%20Playbook/3.%20Nominate%20Champions.md)
+### [4. Explain Testing Framework](Security%20Playbook/4.%20Set%20up%20communication%20channels.md)
+### [5. Create Testing Checklist and Information Gathering](Security%20Playbook/5.%20Build%20solid%20knowledge%20base.md)
+### [6. Explain Search Engine Discovery and Reconnaissance for Information Leakage](Security%20Playbook/6.%20Maintain%20interest.md)
+### [7. Explain Client Side Testing and Reporting](Security%20Playbook/1.%20Identify%20teams.md)
+### [8. Explain Testing Principles, Requirements and Techniques](Security%20Playbook/2.%20Define%20the%20role.md)
+### [9. Fingerprint Web Server and review Webserver Metafiles for Information Leakage](Security%20Playbook/3.%20Nominate%20Champions.md)
+### [10. Explain Fingerprint Web Application Framework](Security%20Playbook/4.%20Set%20up%20communication%20channels.md)
+### [11. Test Network/Infrastructure and Application Platform Configuration](Security%20Playbook/5.%20Build%20solid%20knowledge%20base.md)
+### [12. Test File Extensions Handling, HTTP Methods and HTTP Strict Transport Security](Security%20Playbook/6.%20Maintain%20interest.md)
+### [13. Explain Management and Authentication Testing](Security%20Playbook/6.%20Maintain%20interest.md)
+### [14. Explain Session Management and Input Validation Testing](Security%20Playbook/6.%20Maintain%20interest.md)
 ---
 # Simplified diagram
 ![alt text](Security%20Playbook/playbook.png)
